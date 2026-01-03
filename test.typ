@@ -1,5 +1,5 @@
 #set page(margin: 1.5cm)
-#set text(font: "Libertinus Serif", size: 12pt)
+#set text(font: "Liberation Sans", size: 12pt)
 #let photo-group(content, caption,height: auto) = {
   figure(
     block(content,
